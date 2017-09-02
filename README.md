@@ -10,3 +10,6 @@ https://www.sqlmanager.net/fr/products/postgresql/manager - WINDOWS ONLY
 - PostgreSQL Installer
 https://www.enterprisedb.com/downloads/postgres-postgresql-downloads
 
+During install, use password "postgres" for the "postgres" admin user.
+Create database with name "stockonchain" with pgadmin.
+Use "Restore" function from pgadmin to deploy the database
